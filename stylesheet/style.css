@@ -1,0 +1,153 @@
+/* fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+/* Basic styles or utilities  */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-section{
+    width: 100%;
+    height: 677px;
+    background: #2D25A0;
+    display: flex;
+
+}
+.header-title{
+    color: #FFFFFF;
+    font-size: 55px;
+    line-height: 70px;
+    width: 50%;
+
+}
+.header-banner{
+    width: 50%;
+}
+.header-title a{
+    text-decoration: none;
+    color: #FFFFFF;
+    width: 168px;
+    height: 44px;
+    background: #E02C6D;
+    padding: 10px 24px;
+
+}
+
+.header-banner img{
+    width: 556.01px;
+    margin-top: 153px;
+   
+}
+
+/* main section */
+
+
+
+/* First section */
+
+.first-section{
+    
+    margin-top: 70px;
+
+    
+}
+    
+.first-section-contant{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.player-info{
+   
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    background: #FFFFFF;
+    width: 330px;
+    height: 474px;
+    padding: 15px;
+    margin: 0 30px;
+
+
+   
+}
+.player-info img{
+    width: 300px;
+    height: 256px;
+
+}
+
+/* second section */
+
+
+.second-section{
+    
+    margin-top: 27px;
+
+    
+}
+
+    
+.second-section-contant{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/* third section  */
+
+
+.third-section{
+    
+    margin-top: 27px;
+
+    
+}
+
+    
+.third-section-contant{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+/* fourth section  */
+
+
+.fourth-section{
+    
+    margin-top: 27px;
+
+    
+}
+
+    
+.fourth-section-contant{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/* footer */
+footer{
+    text-align: center;
+    margin: 158px 0px;
+   
+}
+
+footer a {
+    color: gray;
+    padding: 8px;
+    font-size: 26px;
+}
+
+
+
